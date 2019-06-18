@@ -1,0 +1,12 @@
+.link {
+    text-decoration: none;
+    color: #3f51b5;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.mt-64 {
+    margin-top: 64px;
+}
